@@ -8,6 +8,8 @@
 #include "Memoria.h"
 
 int main() {
-	/* Acá pueden realizar sus propias pruebas */
+	char coso[] = "";
+	char coso2[] = "Orga 2!";
+	char *res = strCmp(&coso, &coso2);
 	return 0;
 }

@@ -4,6 +4,7 @@
         "math.h": "c",
         "test-utils.h": "c",
         "estructuras.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "ctype.h": "c"
     }
 }
